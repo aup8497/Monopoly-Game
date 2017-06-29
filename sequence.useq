@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.2.0" icons="true" generate-combined-fragments="true">  
+  <object id="1" language="java" name="com.it306.test.UI.Start" project="business-boardgame" 
+    file="/business-boardgame/src/com/it306/test/UI/Start.java" binary="false" label="start" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="130" y="0"/>    
+    <execution id="2">      
+      <position height="96" width="0" x="0" y="108"/>    
+    </execution>    
+    <execution id="4">      
+      <position height="24" width="0" x="0" y="156"/>    
+    </execution>    
+    <execution id="5">      
+      <position height="1273" width="99" x="5" y="219"/>    
+    </execution>  
+  </object>  
+  <object id="16" language="java" name="com.it306.test.UI.Rules" project="business-boardgame" 
+    file="/business-boardgame/src/com/it306/test/UI/Rules.java" binary="false" label="rules" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="277" y="0"/>    
+    <execution id="7">      
+      <position height="24" width="99" x="108" y="243"/>    
+    </execution>  
+  </object>  
+  <object id="17" language="java" name="com.it306.test.UI.About" project="business-boardgame" 
+    file="/business-boardgame/src/com/it306/test/UI/About.java" binary="false" label="about" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="299" y="0"/>    
+    <execution id="9">      
+      <position height="24" width="99" x="211" y="293"/>    
+    </execution>  
+  </object>  
+  <object id="18" language="java" name="com.it306.test.GameMaster" project="business-boardgame" 
+    file="/business-boardgame/src/com/it306/test/GameMaster.java" binary="false" label="gameMaster" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="440" y="0"/>    
+    <execution id="11">      
+      <position height="143" width="113" x="314" y="340"/>    
+    </execution>    
+    <execution id="20">      
+      <position height="24" width="0" x="0" y="435"/>    
+    </execution>    
+    <execution id="21">      
+      <position height="24" width="113" x="314" y="1086"/>    
+    </execution>    
+    <execution id="22">      
+      <position height="24" width="7" x="367" y="1133"/>    
+    </execution>    
+    <execution id="15">      
+      <position height="263" width="113" x="314" y="1205"/>    
+    </execution>    
+    <execution id="24">      
+      <position height="24" width="0" x="0" y="1229"/>    
+    </execution>    
+    <execution id="26">      
+      <position height="24" width="0" x="0" y="1229"/>    
+    </execution>    
+    <execution id="28">      
+      <position height="133" width="0" x="0" y="1311"/>    
+    </execution>    
+    <execution id="30">      
+      <position height="24" width="0" x="0" y="1396"/>    
+    </execution>    
+    <execution id="31">      
+      <position height="510" width="113" x="314" y="1518"/>    
+    </execution>    
+    <execution id="48">      
+      <position height="258" width="113" x="314" y="2147"/>    
+    </execution>    
+    <execution id="55">      
+      <position height="93" width="113" x="314" y="2475"/>    
+    </execution>    
+    <execution id="58">      
+      <position height="137" width="113" x="314" y="2680"/>    
+    </execution>    
+    <execution id="63">      
+      <position height="630" width="113" x="314" y="3041"/>    
+    </execution>    
+    <execution id="80">      
+      <position height="902" width="113" x="314" y="3736"/>    
+    </execution>    
+    <execution id="82">      
+      <position height="24" width="0" x="0" y="3812"/>    
+    </execution>    
+    <execution id="84">      
+      <position height="621" width="0" x="0" y="3908"/>    
+    </execution>    
+    <execution id="86">      
+      <position height="24" width="0" x="0" y="4590"/>    
+    </execution>    
+    <execution id="88">      
+      <position height="24" width="0" x="0" y="3985"/>    
+    </execution>    
+    <execution id="90">      
+      <position height="24" width="0" x="0" y="4108"/>    
+    </execution>    
+    <execution id="92">      
+      <position height="24" width="0" x="0" y="4258"/>    
+    </execution>    
+    <execution id="94">      
+      <position height="24" width="0" x="0" y="4359"/>    
+    </execution>    
+    <execution id="96">      
+      <position height="24" width="0" x="0" y="4481"/>    
+    </execution>    
+    <execution id="65">      
+      <position height="24" width="0" x="0" y="3089"/>    
+    </execution>    
+    <execution id="77">      
+      <position height="24" width="0" x="0" y="3529"/>    
+    </execution>    
+    <execution id="79">      
+      <position height="24" width="0" x="0" y="3623"/>    
+    </execution>    
+    <execution id="54">      
+      <position height="24" width="113" x="314" y="2356"/>    
+    </execution>    
+    <execution id="97">      
+      <position height="217" width="113" x="314" y="2817"/>    
+    </execution>    
+    <execution id="105">      
+      <position height="24" width="113" x="314" y="2986"/>    
+    </execution>    
+    <execution id="103">      
+      <position height="24" width="7" x="370" y="2924"/>    
+    </execution>    
+    <execution id="37">      
+      <position height="24" width="113" x="314" y="1634"/>    
+    </execution>    
+    <execution id="43">      
+      <position height="24" width="113" x="314" y="1853"/>    
+    </execution>    
+    <execution id="45">      
+      <position height="24" width="113" x="314" y="1915"/>    
+    </execution>    
+    <execution id="47">      
+      <position height="24" width="113" x="314" y="1980"/>    
+    </execution>  
+  </object>  
+  <object id="106" language="java" name="javax.swing.JOptionPane" project="business-boardgame" 
+    file="C:/Program Files/Java/jre1.8.0_111/lib/rt.jar" binary="true" label="&lt;static&gt;" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="69">      
+      <position height="24" width="0" x="0" y="3272"/>    
+    </execution>    
+    <execution id="73">      
+      <position height="24" width="0" x="0" y="3409"/>    
+    </execution>    
+    <execution id="50">      
+      <position height="24" width="115" x="431" y="2224"/>    
+    </execution>    
+    <execution id="39">      
+      <position height="24" width="115" x="431" y="1732"/>    
+    </execution>  
+  </object>  
+  <object id="107" language="java" name="com.it306.test.Player" project="business-boardgame" 
+    file="/business-boardgame/src/com/it306/test/Player.java" binary="false" label="plr" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="67">      
+      <position height="24" width="0" x="0" y="3150"/>    
+    </execution>    
+    <execution id="71">      
+      <position height="24" width="0" x="0" y="3361"/>    
+    </execution>    
+    <execution id="75">      
+      <position height="24" width="0" x="0" y="3457"/>    
+    </execution>    
+    <execution id="52">      
+      <position height="96" width="84" x="550" y="2285"/>    
+    </execution>    
+    <execution id="109">      
+      <position height="24" width="84" x="550" y="2333"/>    
+    </execution>    
+    <execution id="101">      
+      <position height="24" width="84" x="550" y="2869"/>    
+    </execution>    
+    <execution id="99">      
+      <position height="24" width="7" x="589" y="2841"/>    
+    </execution>    
+    <execution id="35">      
+      <position height="24" width="84" x="550" y="1573"/>    
+    </execution>  
+  </object>  
+  <object id="110" language="java" name="com.it306.test.UI.Board" project="business-boardgame" 
+    file="/business-boardgame/src/com/it306/test/UI/Board.java" binary="false" label="board" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="612" y="0"/>    
+    <execution id="13">      
+      <position height="674" width="99" x="431" y="507"/>    
+    </execution>    
+    <execution id="112">      
+      <position height="401" width="0" x="0" y="603"/>    
+    </execution>    
+    <execution id="41">      
+      <position height="24" width="99" x="638" y="1791"/>    
+    </execution>  
+  </object>  
+  <object id="129" language="java" name="java.util.ArrayList" project="business-boardgame" 
+    file="C:/Program Files/Java/jre1.8.0_111/lib/rt.jar" binary="true" label="cells" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="116">      
+      <position height="24" width="0" x="0" y="697"/>    
+    </execution>  
+  </object>  
+  <object id="130" language="java" name="javax.swing.JButton" project="business-boardgame" 
+    file="C:/Program Files/Java/jre1.8.0_111/lib/rt.jar" binary="true" label="btnPlay" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="118">      
+      <position height="24" width="0" x="0" y="745"/>    
+    </execution>    
+    <execution id="131">      
+      <position height="558" width="79" x="651" y="1494"/>    
+    </execution>  
+  </object>  
+  <object id="133" language="java" name="javax.swing.JButton" project="business-boardgame" 
+    file="C:/Program Files/Java/jre1.8.0_111/lib/rt.jar" binary="true" label="btnBuyProperty" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="120">      
+      <position height="24" width="0" x="0" y="788"/>    
+    </execution>    
+    <execution id="134">      
+      <position height="306" width="97" x="734" y="2123"/>    
+    </execution>  
+  </object>  
+  <object id="136" language="java" name="javax.swing.JButton" project="business-boardgame" 
+    file="C:/Program Files/Java/jre1.8.0_111/lib/rt.jar" binary="true" label="btnTrade" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="122">      
+      <position height="24" width="0" x="0" y="829"/>    
+    </execution>    
+    <execution id="137">      
+      <position height="141" width="79" x="835" y="2451"/>    
+    </execution>  
+  </object>  
+  <object id="139" language="java" name="javax.swing.JButton" project="business-boardgame" 
+    file="C:/Program Files/Java/jre1.8.0_111/lib/rt.jar" binary="true" label="btnPickCard" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="124">      
+      <position height="24" width="0" x="0" y="872"/>    
+    </execution>    
+    <execution id="140">      
+      <position height="185" width="79" x="918" y="2656"/>    
+    </execution>  
+  </object>  
+  <object id="142" language="java" name="javax.swing.JButton" project="business-boardgame" 
+    file="C:/Program Files/Java/jre1.8.0_111/lib/rt.jar" binary="true" label="btnPayBail" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="126">      
+      <position height="24" width="0" x="0" y="916"/>    
+    </execution>    
+    <execution id="143">      
+      <position height="678" width="79" x="1208" y="3017"/>    
+    </execution>  
+  </object>  
+  <object id="145" language="java" name="javax.swing.JButton" project="business-boardgame" 
+    file="C:/Program Files/Java/jre1.8.0_111/lib/rt.jar" binary="true" label="btnEndTurn" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="128">      
+      <position height="24" width="0" x="0" y="956"/>    
+    </execution>    
+    <execution id="146">      
+      <position height="950" width="79" x="1084" y="3712"/>    
+    </execution>  
+  </object>  
+  <object id="148" language="java" name="com.it306.test.Dice" project="business-boardgame" 
+    file="/business-boardgame/src/com/it306/test/Dice.java" binary="false" label="dice" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="33">      
+      <position height="24" width="84" x="1167" y="1542"/>    
+    </execution>  
+  </object>  
+  <object id="149" language="java" name="com.it306.test.UI.TradeUI" project="business-boardgame" 
+    file="/business-boardgame/src/com/it306/test/UI/TradeUI.java" binary="false" label="tradeUI" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="1411" y="0"/>    
+    <execution id="57">      
+      <position height="24" width="99" x="1255" y="2520"/>    
+    </execution>  
+  </object>  
+  <object id="150" language="java" name="com.it306.test.UI.Debt" project="business-boardgame" 
+    file="/business-boardgame/src/com/it306/test/UI/Debt.java" binary="false" label="debt" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1666" y="0"/>    
+    <execution id="62">      
+      <position height="24" width="99" x="1565" y="2769"/>    
+    </execution>  
+  </object>  
+  <object id="151" language="java" name="com.it306.test.Card" project="business-boardgame" 
+    file="/business-boardgame/src/com/it306/test/Card.java" binary="false" label="card" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1753" y="0"/>    
+    <execution id="60">      
+      <position height="24" width="84" x="1668" y="2726"/>    
+    </execution>  
+  </object>  
+  <combined-fragment id="152" interaction-operator="OPT">    
+    <interaction-operand id="153" constraint="gameMaster == null">      
+      <fragment refId="19"/>    
+    </interaction-operand>  
+  </combined-fragment>  
+  <combined-fragment id="154" interaction-operator="ALT">    
+    <interaction-operand id="155" constraint="plr == null">      
+      <fragment refId="156"/>      
+      <fragment refId="89"/>    
+    </interaction-operand>    
+    <interaction-operand id="157" constraint="else">      
+      <fragment refId="95"/>    
+    </interaction-operand>    
+    <combined-fragment id="156" interaction-operator="ALT">      
+      <interaction-operand id="158" constraint="currPlr.getIsOut()">        
+        <fragment refId="91"/>      
+      </interaction-operand>      
+      <interaction-operand id="159" constraint="else">        
+        <fragment refId="93"/>      
+      </interaction-operand>    
+    </combined-fragment>  
+  </combined-fragment>  
+  <combined-fragment id="160" interaction-operator="ALT">    
+    <interaction-operand id="161" constraint="bailAmt &gt; funds">      
+      <fragment refId="68"/>    
+    </interaction-operand>    
+    <interaction-operand id="162" constraint="else">      
+      <fragment refId="72"/>      
+      <fragment refId="76"/>      
+      <fragment refId="70"/>      
+      <fragment refId="74"/>    
+    </interaction-operand>  
+  </combined-fragment>  
+  <combined-fragment id="163" interaction-operator="ALT">    
+    <interaction-operand id="164" constraint="value &gt; funds">      
+      <fragment refId="49"/>    
+    </interaction-operand>  
+  </combined-fragment>  
+  <combined-fragment id="165" interaction-operator="LOOP">    
+    <interaction-operand id="166">      
+      <fragment refId="167"/>    
+    </interaction-operand>    
+    <combined-fragment id="167" interaction-operator="ALT">      
+      <interaction-operand id="168" constraint="value &gt; funds">        
+        <fragment refId="61"/>        
+        <fragment refId="141"/>      
+      </interaction-operand>    
+    </combined-fragment>  
+  </combined-fragment>  
+  <combined-fragment id="169" interaction-operator="ALT">    
+    <interaction-operand id="170" constraint="plr.isInJail">      
+      <fragment refId="38"/>    
+    </interaction-operand>  
+  </combined-fragment>  
+  <message id="3" operation="initialize():void" asynchronous="false">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="6" asynchronous="true">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="7"/>  
+  </message>  
+  <message id="8" asynchronous="true">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="9"/>  
+  </message>  
+  <message id="10" operation="instance():com.it306.test.GameMaster" asynchronous="false">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="11"/>  
+  </message>  
+  <message id="12" operation="Board(int)" asynchronous="false">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="13"/>  
+  </message>  
+  <message id="14" operation="startGame():void" asynchronous="false">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="15"/>  
+  </message>  
+  <message id="19" operation="GameMaster()" asynchronous="false">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="20"/>  
+  </message>  
+  <message id="23" operation="initPlayers():void" asynchronous="false">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="24"/>  
+  </message>  
+  <message id="25" operation="getCurrentPlayer():com.it306.test.Player" asynchronous="false">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="26"/>  
+  </message>  
+  <message id="27" operation="play():void" asynchronous="false">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="28"/>  
+  </message>  
+  <message id="29" operation="getCurrentPlayer():com.it306.test.Player" asynchronous="false">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="30"/>  
+  </message>  
+  <message id="32" operation="roll():int" asynchronous="false">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="33"/>  
+  </message>  
+  <message id="34" operation="Player(javax.swing.JLabel)" asynchronous="false">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="35"/>  
+  </message>  
+  <message id="36" operation="getCellAtPos(int):java.lang.Object" asynchronous="false">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="37"/>  
+  </message>  
+  <message id="38" operation="showMessageDialog(java.awt.Component,java.lang.Object,java.lang.String,int):void" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="39"/>  
+  </message>  
+  <message id="40" operation="setPlayerPos(int,com.it306.test.Player):void" asynchronous="false">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="41"/>  
+  </message>  
+  <message id="42" operation="payTax(com.it306.test.Player):void" asynchronous="false">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="43"/>  
+  </message>  
+  <message id="44" operation="payRent(com.it306.test.Property):void" asynchronous="false">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="45"/>  
+  </message>  
+  <message id="46" operation="updateLabels():void" asynchronous="false">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="47"/>  
+  </message>  
+  <message id="49" operation="showMessageDialog(java.awt.Component,java.lang.Object,java.lang.String,int):void" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="50"/>  
+  </message>  
+  <message id="51" operation="subMoney(int):void" asynchronous="false">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="52"/>  
+  </message>  
+  <message id="53" operation="updateLabels():void" asynchronous="false">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="54"/>  
+  </message>  
+  <message id="56" operation="TradeUI()" asynchronous="true">    
+    <end type="SOURCE" refId="55"/>    
+    <end type="TARGET" refId="57"/>  
+  </message>  
+  <message id="59" operation="Card(java.lang.String,int,int)" asynchronous="false">    
+    <end type="SOURCE" refId="58"/>    
+    <end type="TARGET" refId="60"/>  
+  </message>  
+  <message id="61" operation="Debt()" asynchronous="false">    
+    <end type="SOURCE" refId="58"/>    
+    <end type="TARGET" refId="62"/>  
+  </message>  
+  <message id="64" operation="getCurrentPlayer():com.it306.test.Player" asynchronous="false">    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="65"/>  
+  </message>  
+  <message id="66" operation="getMoney():int" asynchronous="false">    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="67"/>  
+  </message>  
+  <message id="68" operation="showMessageDialog(java.awt.Component,java.lang.Object,java.lang.String,int):void" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="69"/>  
+  </message>  
+  <message id="70" operation="subMoney(int):void" asynchronous="false">    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="71"/>  
+  </message>  
+  <message id="72" operation="showMessageDialog(java.awt.Component,java.lang.Object,java.lang.String,int):void" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="73"/>  
+  </message>  
+  <message id="74" operation="setInJail(boolean):void" asynchronous="false">    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="75"/>  
+  </message>  
+  <message id="76" operation="disableAllButtons():void" asynchronous="false">    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="77"/>  
+  </message>  
+  <message id="78" operation="updateLabels():void" asynchronous="false">    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="79"/>  
+  </message>  
+  <message id="81" operation="disableAllButtons():void" asynchronous="false">    
+    <end type="SOURCE" refId="80"/>    
+    <end type="TARGET" refId="82"/>  
+  </message>  
+  <message id="83" operation="switchTurn():void" asynchronous="false">    
+    <end type="SOURCE" refId="80"/>    
+    <end type="TARGET" refId="84"/>  
+  </message>  
+  <message id="85" operation="updateLabels():void" asynchronous="false">    
+    <end type="SOURCE" refId="80"/>    
+    <end type="TARGET" refId="86"/>  
+  </message>  
+  <message id="87" operation="getCurrentPlayer():com.it306.test.Player" asynchronous="false">    
+    <end type="SOURCE" refId="84"/>    
+    <end type="TARGET" refId="88"/>  
+  </message>  
+  <message id="89" operation="checkWinner():com.it306.test.Player" asynchronous="false">    
+    <end type="SOURCE" refId="84"/>    
+    <end type="TARGET" refId="90"/>  
+  </message>  
+  <message id="91" operation="switchTurn():void" asynchronous="false">    
+    <end type="SOURCE" refId="84"/>    
+    <end type="TARGET" refId="92"/>  
+  </message>  
+  <message id="93" operation="play():void" asynchronous="false">    
+    <end type="SOURCE" refId="84"/>    
+    <end type="TARGET" refId="94"/>  
+  </message>  
+  <message id="95" operation="displayBanner(com.it306.test.Player):void" asynchronous="false">    
+    <end type="SOURCE" refId="84"/>    
+    <end type="TARGET" refId="96"/>  
+  </message>  
+  <message id="98" operation="subMoney(int):void" asynchronous="false">    
+    <end type="SOURCE" refId="97"/>    
+    <end type="TARGET" refId="99"/>  
+  </message>  
+  <message id="100" operation="setPosition(int):void" asynchronous="false">    
+    <end type="SOURCE" refId="97"/>    
+    <end type="TARGET" refId="101"/>  
+  </message>  
+  <message id="102" operation="disableAllButtons():void" asynchronous="false">    
+    <end type="SOURCE" refId="97"/>    
+    <end type="TARGET" refId="103"/>  
+  </message>  
+  <message id="104" operation="updateLabels():void" asynchronous="false">    
+    <end type="SOURCE" refId="97"/>    
+    <end type="TARGET" refId="105"/>  
+  </message>  
+  <message id="108" operation="addProperty(com.it306.test.Property):void" asynchronous="false">    
+    <end type="SOURCE" refId="52"/>    
+    <end type="TARGET" refId="109"/>  
+  </message>  
+  <message id="111" operation="initialize(int):void" asynchronous="false">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="112"/>  
+  </message>  
+  <message id="113" operation="setGameBoard(com.it306.test.UI.Board):void" asynchronous="false">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="21"/>  
+  </message>  
+  <message id="114" operation="setPlayers(java.util.ArrayList&lt;java.lang.String&gt;):void" asynchronous="false">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="22"/>  
+  </message>  
+  <message id="115" operation="add(E):boolean" asynchronous="false">    
+    <end type="SOURCE" refId="112"/>    
+    <end type="TARGET" refId="116"/>  
+  </message>  
+  <message id="117" operation="JButton(java.lang.String)" asynchronous="false">    
+    <end type="SOURCE" refId="112"/>    
+    <end type="TARGET" refId="118"/>  
+  </message>  
+  <message id="119" operation="JButton(java.lang.String)" asynchronous="false">    
+    <end type="SOURCE" refId="112"/>    
+    <end type="TARGET" refId="120"/>  
+  </message>  
+  <message id="121" operation="JButton(java.lang.String)" asynchronous="false">    
+    <end type="SOURCE" refId="112"/>    
+    <end type="TARGET" refId="122"/>  
+  </message>  
+  <message id="123" operation="JButton(java.lang.String)" asynchronous="false">    
+    <end type="SOURCE" refId="112"/>    
+    <end type="TARGET" refId="124"/>  
+  </message>  
+  <message id="125" operation="JButton(java.lang.String)" asynchronous="false">    
+    <end type="SOURCE" refId="112"/>    
+    <end type="TARGET" refId="126"/>  
+  </message>  
+  <message id="127" operation="JButton(java.lang.String)" asynchronous="false">    
+    <end type="SOURCE" refId="112"/>    
+    <end type="TARGET" refId="128"/>  
+  </message>  
+  <message id="132" operation="btnPlayClicked():void" asynchronous="false">    
+    <end type="SOURCE" refId="131"/>    
+    <end type="TARGET" refId="31"/>  
+  </message>  
+  <message id="135" operation="btnBuyPropertyClicked():void" asynchronous="false">    
+    <end type="SOURCE" refId="134"/>    
+    <end type="TARGET" refId="48"/>  
+  </message>  
+  <message id="138" operation="btnTradeClicked():void" asynchronous="false">    
+    <end type="SOURCE" refId="137"/>    
+    <end type="TARGET" refId="55"/>  
+  </message>  
+  <message id="141" operation="btnPickCardClicked():void" asynchronous="false">    
+    <end type="SOURCE" refId="140"/>    
+    <end type="TARGET" refId="58"/>  
+  </message>  
+  <message id="144" operation="btnPayBailClicked():void" asynchronous="false">    
+    <end type="SOURCE" refId="143"/>    
+    <end type="TARGET" refId="63"/>  
+  </message>  
+  <message id="147" operation="btnEndTurnClicked():void" asynchronous="false">    
+    <end type="SOURCE" refId="146"/>    
+    <end type="TARGET" refId="80"/>  
+  </message>
+</sequence-diagram>
